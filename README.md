@@ -34,3 +34,5 @@ Add the following features one by one, refreshing the page to see your functiona
 5. As a user, I can leave comments on my gameplay, such as: "Wow, what a fun game this is."
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/jsdom-dom-challenge'>DOM Challenge</a> on Learn.co and start learning to code for free.</p>
+
+
